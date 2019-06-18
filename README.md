@@ -1,6 +1,6 @@
 # Pyrai - Mirai python variant
 
-This is a working variant of the Mirai IOT botnet, this is fully written in Python3 and you don't need external dependecies to make it working. In this paper I'm going to show you how to configure each script in order to setup your PyRai.
+This is a working variant of the Mirai IOT botnet, this is fully written in Python3. In this paper I'm going to show you how to configure each script in order to setup your PyRai.
 
 ## Relay setup
 
