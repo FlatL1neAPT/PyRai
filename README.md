@@ -2,6 +2,9 @@
 
 This is a working variant of the Mirai IOT botnet, this is fully written in Python3. In this paper I'm going to show you how to configure each script in order to setup your PyRai.
 
+## Requirements
+It needs actually something like 2-3 libs like telnet lib but to be sure install the requirements.txt
+
 ## Relay setup
 
 First of all you need to setup up the relay, this server will collect all the username and password from the remote scanners each time they successfully bruteforce a device. So in order to do this open the file __relay.py__ and modify the variables:
